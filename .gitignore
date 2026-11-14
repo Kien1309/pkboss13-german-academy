@@ -1,1 +1,22 @@
 
+# Secrets and API keys
+.env
+.env.*
+!.env.example
+config.local.js
+
+# Dependencies
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
